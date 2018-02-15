@@ -14,3 +14,18 @@ C:\Users\admin\source\repos\Prime Number Gen\Prime Number Gen\obj\Debug\aa\Prime
 C:\Users\admin\source\repos\Prime Number Gen\Prime Number Gen\bin\Debug\en\Prime Number Gen.resources.dll
 C:\Users\admin\source\repos\Prime Number Gen\Prime Number Gen\obj\Debug\Prime_Number_Gen.Form1.en.resources
 C:\Users\admin\source\repos\Prime Number Gen\Prime Number Gen\obj\Debug\en\Prime Number Gen.resources.dll
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\bin\Debug\Prime Number Gen.exe.config
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\obj\Debug\Prime Number Gen.exe
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\obj\Debug\Prime Number Gen.pdb
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\obj\Debug\Prime Number Gen.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\obj\Debug\Prime_Number_Gen.Form1.resources
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\obj\Debug\Prime_Number_Gen.Properties.Resources.resources
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\obj\Debug\Prime_Number_Gen.Form1.aa.resources
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\obj\Debug\Prime_Number_Gen.Form1.en.resources
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\obj\Debug\Prime Number Gen.csproj.GenerateResource.Cache
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\bin\Debug\Prime Number Gen.exe
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\bin\Debug\Prime Number Gen.pdb
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\bin\Debug\aa\Prime Number Gen.resources.dll
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\bin\Debug\en\Prime Number Gen.resources.dll
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\obj\Debug\aa\Prime Number Gen.resources.dll
+C:\Users\Justin\Documents\GitHub\Prime-Number-Gen2\obj\Debug\en\Prime Number Gen.resources.dll

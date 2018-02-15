@@ -125,15 +125,8 @@
   <data name="Sort.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="Sort.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 372</value>
-  </data>
   <data name="Sort.Size" type="System.Drawing.Size, System.Drawing">
     <value>260, 23</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Sort.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
   </data>
   <data name="Sort.Text" xml:space="preserve">
     <value>Sort</value>

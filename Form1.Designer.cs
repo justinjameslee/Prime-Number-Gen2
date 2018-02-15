@@ -68,7 +68,6 @@
             resources.GetString("listbox_output.Items")});
             this.listbox_output.MultiColumn = true;
             this.listbox_output.Name = "listbox_output";
-            this.listbox_output.Sorted = true;
             // 
             // Sort
             // 

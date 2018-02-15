@@ -124,9 +124,6 @@
   <data name="button_find.Text" xml:space="preserve">
     <value>Find</value>
   </data>
-  <data name="&gt;&gt;button_find.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="&gt;&gt;button_find.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -134,29 +131,29 @@
   <data name="button_find.Size" type="System.Drawing.Size, System.Drawing">
     <value>260, 23</value>
   </data>
+  <data name="listbox_output.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
   <data name="textbox_number2.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
-  </data>
-  <data name="&gt;&gt;Sort.Name" xml:space="preserve">
-    <value>Sort</value>
   </data>
   <data name="Sort.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Prime Numbers</value>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
   </data>
-  <data name="&gt;&gt;Sort.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="listbox_output.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 34</value>
+  <data name="listbox_output.Items2" xml:space="preserve">
+    <value>test3</value>
   </data>
   <data name="&gt;&gt;button_find.Name" xml:space="preserve">
     <value>button_find</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
     <value>between</value>
+  </data>
+  <data name="listbox_output.Items1" xml:space="preserve">
+    <value>test2</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Form1</value>
@@ -182,6 +179,9 @@
   <data name="&gt;&gt;listbox_output.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="listbox_output.Items" xml:space="preserve">
+    <value>test,test2,test3</value>
+  </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>281, 390</value>
   </data>
@@ -197,6 +197,9 @@
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
   </data>
+  <data name="button_find.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
   <data name="textbox_number01.Location" type="System.Drawing.Point, System.Drawing">
     <value>10, 8</value>
   </data>
@@ -206,17 +209,11 @@
   <data name="textbox_number01.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 20</value>
   </data>
-  <data name="&gt;&gt;button_find.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="Sort.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 372</value>
+  <data name="&gt;&gt;Sort.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="&gt;&gt;backgroundWorker1.Name" xml:space="preserve">
     <value>backgroundWorker1</value>
-  </data>
-  <data name="&gt;&gt;backgroundWorker1.Type" xml:space="preserve">
-    <value>System.ComponentModel.BackgroundWorker, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="listbox_output.Size" type="System.Drawing.Size, System.Drawing">
     <value>260, 303</value>
@@ -230,8 +227,8 @@
   <data name="button_find.Location" type="System.Drawing.Point, System.Drawing">
     <value>10, 355</value>
   </data>
-  <data name="textbox_number01.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="&gt;&gt;Sort.Name" xml:space="preserve">
+    <value>Sort</value>
   </data>
   <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -239,65 +236,68 @@
   <data name="&gt;&gt;textbox_number01.Name" xml:space="preserve">
     <value>textbox_number01</value>
   </data>
-  <data name="&gt;&gt;textbox_number2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Sort.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 372</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 13</value>
   </data>
-  <data name="&gt;&gt;textbox_number2.Name" xml:space="preserve">
-    <value>textbox_number2</value>
-  </data>
-  <data name="textbox_number2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>170, 8</value>
-  </data>
-  <data name="listbox_output.Items" xml:space="preserve">
-    <value>test,test2,test3</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
-  </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+  <data name="textbox_number01.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
-  </data>
-  <data name="button1.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
   </data>
   <data name="&gt;&gt;textbox_number01.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="&gt;&gt;button1.Name" xml:space="preserve">
-    <value>button1</value>
+  <data name="textbox_number2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 8</value>
   </data>
-  <data name="&gt;&gt;Sort.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="&gt;&gt;button_find.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
-  <data name="&gt;&gt;button1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textbox_number01.Parent" xml:space="preserve">
+  <data name="&gt;&gt;textbox_number2.Name" xml:space="preserve">
+    <value>textbox_number2</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;button_find.Parent" xml:space="preserve">
     <value>$this</value>
+  </data>
+  <data name="listbox_output.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 34</value>
   </data>
   <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
     <value>10, 419</value>
   </data>
-  <data name="listbox_output.Items1" xml:space="preserve">
-    <value>test2</value>
+  <data name="&gt;&gt;textbox_number2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="listbox_output.Items2" xml:space="preserve">
-    <value>test3</value>
+  <data name="&gt;&gt;textbox_number01.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="listbox_output.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
+  <data name="&gt;&gt;Sort.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Prime Numbers</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="&gt;&gt;label1.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="button_find.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
+  <data name="&gt;&gt;backgroundWorker1.Type" xml:space="preserve">
+    <value>System.ComponentModel.BackgroundWorker, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>

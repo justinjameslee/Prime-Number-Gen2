@@ -17,10 +17,10 @@ namespace Prime_Number_Gen
             InitializeComponent();
         }
 
-        int number1;
-        int number2;
-
-        Boolean isPrime(int number)
+        double number1;
+        double number2;
+        
+        Boolean isPrime(double number)
         {
             if (number == 1) return false;
             if (number == 2) return true;
@@ -36,14 +36,14 @@ namespace Prime_Number_Gen
         {
             listbox_output.Items.Clear();
 
-            number1 = Convert.ToInt16(textbox_number01.Text);
-            number2 = Convert.ToInt16(textbox_number2.Text);
+            number1 = Convert.ToDouble(textbox_number01.Text);
+            number2 = Convert.ToDouble(textbox_number2.Text);
 
-            int amount = number2 - number1;
+            double amount = number2 - number1;
 
 
 
-            for (int i = number1; i <= number2; i++)
+            for (double i = number1; i <= number2; i++)
             {
 
                 Boolean primecheck = isPrime(i);
@@ -63,7 +63,7 @@ namespace Prime_Number_Gen
 
         private void Sort_Click(object sender, EventArgs e)
         {
-            listbox_output.Sorted = true;
+            listbox_output.Sorted = false;
         }
     }
 }
